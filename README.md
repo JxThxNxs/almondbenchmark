@@ -1,4 +1,4 @@
-# Almond Benchmark by JxThxNxs
+# Aalmond Benchmark by JxThxNxs
 
 A high-performance, cross-platform CPU benchmarking tool featuring Mandelbrot set visualization with real-time rendering and comprehensive performance scoring.
 
